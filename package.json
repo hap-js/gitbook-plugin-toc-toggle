@@ -1,0 +1,14 @@
+{
+  "name": "gitbook-plugin-toc-toggle",
+  "version": "0.0.8",
+  "description": "a plugins for gitbook for toc-toggle",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "author": "yupeng1",
+  "license": "ISC"
+}

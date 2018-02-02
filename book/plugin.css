@@ -1,0 +1,7 @@
+.summary .active span{
+  cursor: default;
+}
+
+.chapter span{
+  cursor: pointer;
+}
